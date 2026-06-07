@@ -25,10 +25,7 @@ Analyse exploratoire des salaires des employés par département et expérience.
 
 
 
-## 🔍 Conclusions
-- département IT له أعلى رواتب
-- كلما زادت الخبرة زاد الراتب
-- Corrélation قوية بين الخبرة والراتب (0.98)
+
 
 ## 🛠️ Technologies utilisées
 - Python
