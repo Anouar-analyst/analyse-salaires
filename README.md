@@ -33,4 +33,4 @@ Analyse exploratoire des salaires des employés par département et expérience.
 - Matplotlib
 
 ## 👤 Auteur
-**Chaouch Anouar** — [GitHub](https://github.com/Anouar-analyst)
+**Chaouch Anouar**— [GitHub](https://github.com/Anouar-analyst)
